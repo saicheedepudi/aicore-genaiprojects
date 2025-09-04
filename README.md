@@ -1,1 +1,1 @@
-# AICore-Project1
+# AICore-GenAIProjects
